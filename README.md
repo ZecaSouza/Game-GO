@@ -1,4 +1,3 @@
-﻿# Game-GO
 # Game-GO
 📚 Projeto de Aprendizado com GO & Ebiten 🎮
 
